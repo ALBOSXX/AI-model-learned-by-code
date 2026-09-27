@@ -1,0 +1,1 @@
+As a guy who is not really in AI and machine learning it is very interesting for me to know each step of creating new AI model. This project is just an experiment. I want to know the result of learning completely new AI model only using code. First dataset will be linux kernel source code.
